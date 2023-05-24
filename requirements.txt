@@ -11,3 +11,4 @@ setuptools==65.5.0
 torch==2.0.0+cu117
 tqdm==4.65.0
 transformers==4.27.2
+pyarrow==12.0.0
